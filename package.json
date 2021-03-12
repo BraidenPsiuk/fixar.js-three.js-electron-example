@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "electron": "^12.0.1",
-    "fixar": "^0.1.2",
+    "fixar": "^0.2.0",
     "three": "^0.126.1"
   },
   "name": "fixar.js-three.js-electron-example",
